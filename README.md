@@ -1,2 +1,7 @@
-# myproject1
-This is my first project
+# Мой репозиторий
+
+Это мой репозиторий на GitHub.
+
+- Текст
+- Текст
+- Текст
